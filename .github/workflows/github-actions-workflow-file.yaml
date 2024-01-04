@@ -1,7 +1,7 @@
 name: Github-Actions-Demo
 on: push
 jobs:
-  Example-Job-1:
+  Example-Actions-Job:
     name: Exploring Github Jobs
     runs-on: ubuntu-latest
     steps:
